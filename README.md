@@ -1,2 +1,2 @@
 # wxlogin
-Static site deployed from yDlzhluR/wxlogin
+微信登陆
